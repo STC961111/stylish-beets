@@ -53,3 +53,27 @@ cite {
   font-style: italic;
   color: #222;
 }
+
+ul li {
+  font-size: 0.8rem;
+  color: #222;
+}
+
+.dt1 {
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+.dt2 {
+  font-size: 0.8rem;
+  font-family: PT, serif;
+  font-weight: bold;
+}
+
+.dt3 {
+  font-size: 0.8rem;
+  font-family: PT, serif;
+}
+a {
+  color: #8f2440;
+}
