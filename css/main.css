@@ -16,38 +16,38 @@ h1 {
 }
 
 h2 {
-  font-family: PT, Sans;
+  font-family: PT+Sans;
   font-weight: bold;
   font-size: 1.125rem;
- }
+}
 
 .p1 {
   font-style: italic;
   text-align: center;
   font-size: 0.8rem;
   color: #222
- }
+}
 
 .p2 {
-  font-family: PT Sans;
+  font-family: PT+Sans;
   font-size: 1.125rem;
   font-weight: bold;
   color: #222
- }
+}
 
 .p3 {
-  font-family: PT Serif;
+  font-family: PT+Serif;
   font-size: 0.8rem;
   color: #222
-  }
+}
 
 .p5 {
-  font-family: PT Serif;
+  font-family: PT+Serif;
   font-size: 1.5rem;
   text-align: center;
   font-style: italic;
   color: #222
-  }
+}
 cite {
   font-size: 0.8rem;
   font-style: italic;
