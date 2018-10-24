@@ -7,12 +7,13 @@ h1 {
   color: #3f1622;
 }
 
-.lii {
+.lii:hover {
   color: #8f2440;
-}
-
-.ili {
   font-size: 1.125rem;
+  text-decoration: underline;
+}
+.l {
+  color: #8f2440;
 }
 
 h2 {
