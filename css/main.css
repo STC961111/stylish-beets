@@ -1,8 +1,10 @@
 html {
+  font-family: "PT Serif";
   background-color: #c9b5ab;
 }
 
 h1 {
+  font-family: "PT Sans";
   font-size: 1.5rem;
   color: #3f1622;
   font-weight: normal;
@@ -26,7 +28,7 @@ h1 {
 }
 
 h2 {
-  font-family: PT, Sans;
+  font-family: "PT Sans";
   font-weight: bold;
   font-size: 1.125rem;
   line-height: 1.5;
