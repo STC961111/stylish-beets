@@ -24,6 +24,7 @@ a {
   line-height: 1.5;
   list-style-type: none;
 }
+
 .lii:hover {
   color: #8f2440;
   font-size: 1.125rem;
