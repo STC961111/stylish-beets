@@ -3,6 +3,10 @@ html {
   background-color: #c9b5ab;
 }
 
+img{
+  width: 100%
+}
+
 h1 {
   font-family: "PT Sans";
   font-size: 1.5rem;
